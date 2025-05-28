@@ -20,7 +20,7 @@ It's a landing page website for a fictional company called Easy Bank.
 
 ### Mobile Version:
 
-![mobile-design-2](https://github.com/user-attachments/assets/18de3b81-342f-42d8-9e85-19c40ac30c19)
+![_C__Users_student_Desktop_Frontend_easybank_tutorial_index html(iPhone XR)](https://github.com/user-attachments/assets/187a38d4-13f5-4354-951e-1b29aa45df98)
 
 ![mobile-navigation](https://github.com/user-attachments/assets/a9886bc7-7b93-48ad-b044-64d453182bcf)
 
