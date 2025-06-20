@@ -1,8 +1,10 @@
 # Easy Bank Landing Page
 
-This project is the result of a front-end development tutorial I completed as part of my learning journey.
+This project is the result of a Frontend Mentor Challenge I completed as part of my learning journey.
 
 It's a landing page website for a fictional company called Easy Bank.
+
+You can see the final result here:
 
 ## Built With
 
@@ -29,7 +31,7 @@ It's a landing page website for a fictional company called Easy Bank.
 If you'd like to run this on your local machine:
 
 1.  Clone the repository: `git clone [repository URL]`
-2.  Navigate to the project directory: `cd [project directory]`
+2.  Navigate to the project directory: `cd [proect directory]`
 3.  Open the `index.html` file in your web browser.
 
 This project was created as a learning exercise.
