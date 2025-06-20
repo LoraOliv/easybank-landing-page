@@ -4,7 +4,7 @@ This project is the result of a Frontend Mentor Challenge I completed as part of
 
 It's a landing page website for a fictional company called Easy Bank.
 
-You can see the final result here:
+You can see the final result [here](https://loraoliv.github.io/easybank-landing-page/).
 
 ## Built With
 
